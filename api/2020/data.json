@@ -1,0 +1,13 @@
+[
+{"Date":"2020-01-01","Name":"New Year's Day","Day":"Wednesday","Observance":"2020-01-01","Observance Strategy":"actual_day"},
+{"Date":"2020-01-25","Name":"Chinese New Year Day 1","Day":"Saturday","Observance":"2020-01-25","Observance Strategy":"actual_day"},
+{"Date":"2020-01-26","Name":"Chinese New Year Day 2","Day":"Sunday","Observance":"2020-01-27","Observance Strategy":"next_monday"},
+{"Date":"2020-04-10","Name":"Good Friday","Day":"Friday","Observance":"2020-04-10","Observance Strategy":"actual_day"},
+{"Date":"2020-05-01","Name":"Labour Day","Day":"Friday","Observance":"2020-05-01","Observance Strategy":"actual_day"},
+{"Date":"2020-05-07","Name":"Vesak Day","Day":"Thursday","Observance":"2020-05-07","Observance Strategy":"actual_day"},
+{"Date":"2020-05-24","Name":"Hari Raya Puasa","Day":"Sunday","Observance":"2020-05-25","Observance Strategy":"next_monday"},
+{"Date":"2020-07-31","Name":"Hari Raya Haji","Day":"Friday","Observance":"2020-07-31","Observance Strategy":"actual_day"},
+{"Date":"2020-08-09","Name":"National Day","Day":"Sunday","Observance":"2020-08-10","Observance Strategy":"next_monday"},
+{"Date":"2020-11-14","Name":"Deepavali","Day":"Saturday","Observance":"2020-11-14","Observance Strategy":"actual_day"},
+{"Date":"2020-12-25","Name":"Christmas Day","Day":"Friday","Observance":"2020-12-25","Observance Strategy":"actual_day"}
+]

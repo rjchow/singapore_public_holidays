@@ -1,0 +1,13 @@
+[
+{"Date":"2016-01-01","Name":"New Year's Day","Day":"Friday","Observance":"2016-01-01","Observance Strategy":"actual_day"},
+{"Date":"2016-02-08","Name":"Chinese New Year Day 1","Day":"Monday","Observance":"2016-02-08","Observance Strategy":"actual_day"},
+{"Date":"2016-02-09","Name":"Chinese New Year Day 2","Day":"Tuesday","Observance":"2016-02-09","Observance Strategy":"actual_day"},
+{"Date":"2016-03-25","Name":"Good Friday","Day":"Friday","Observance":"2016-03-25","Observance Strategy":"actual_day"},
+{"Date":"2016-05-01","Name":"Labour Day","Day":"Sunday","Observance":"2016-05-01","Observance Strategy":"next_monday"},
+{"Date":"2016-05-21","Name":"Vesak Day","Day":"Saturday","Observance":"2016-05-21","Observance Strategy":"actual_day"},
+{"Date":"2016-07-06","Name":"Hari Raya Puasa","Day":"Wednesday","Observance":"2016-07-06","Observance Strategy":"actual_day"},
+{"Date":"2016-08-09","Name":"National Day","Day":"Tuesday","Observance":"2016-08-09","Observance Strategy":"actual_day"},
+{"Date":"2016-09-12","Name":"Hari Raya Haji","Day":"Monday","Observance":"2016-09-12","Observance Strategy":"actual_day"},
+{"Date":"2016-10-29","Name":"Deepavali","Day":"Saturday","Observance":"2016-10-29","Observance Strategy":"actual_day"},
+{"Date":"2016-12-25","Name":"Christmas Day","Day":"Sunday","Observance":"2016-12-26","Observance Strategy":"next_monday"}
+]
