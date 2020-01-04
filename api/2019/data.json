@@ -8,6 +8,6 @@
 {"Date":"2019-06-05","Name":"Hari Raya Puasa","Day":"Wednesday","Observance":"2019-06-05","Observance Strategy":"actual_day"},
 {"Date":"2019-08-09","Name":"National Day","Day":"Friday","Observance":"2019-08-09","Observance Strategy":"actual_day"},
 {"Date":"2019-08-11","Name":"Hari Raya Haji","Day":"Sunday","Observance":"2019-08-12","Observance Strategy":"next_monday"},
-{"Date":"2019-10-27","Name":"Deepavali","Day":"Sunday","Observance":"2019-10-27","Observance Strategy":"next_monday"},
+{"Date":"2019-10-27","Name":"Deepavali","Day":"Sunday","Observance":"2019-10-28","Observance Strategy":"next_monday"},
 {"Date":"2019-12-25","Name":"Christmas Day","Day":"Wednesday","Observance":"2019-12-25","Observance Strategy":"actual_day"}
 ]
