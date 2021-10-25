@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rjchow/singapore_public_holidays#readme",
   "dependencies": {
-    "csvtojson": "^2.0.8"
+    "csvtojson": "^2.0.10"
   }
 }
